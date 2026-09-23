@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large model files
+*.pkl
+*.pickle
+
+# Local data files
+*.csv
+*.xlsx
+*.xls
