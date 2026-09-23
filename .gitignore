@@ -34,3 +34,6 @@ Thumbs.db
 *.csv
 *.xlsx
 *.xls
+
+# Trained models
+models/
